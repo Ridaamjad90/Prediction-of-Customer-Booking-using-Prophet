@@ -23,7 +23,9 @@ one new column. The edited version of csv file is uploaded in this repository fo
 
 *arrival_date_year* Year of arrival date
 
-*arrival_date_month* Month of arrival date
+*MONTH* Month of arrival date
+
+*DATE* Date-Month-Year of arrival
 
 *arrival_date_week_number* Week number of year for arrival date
 
